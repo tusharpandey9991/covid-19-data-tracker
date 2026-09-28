@@ -1,0 +1,52 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/*.csv
+data/processed/*.csv
+.DS_Store
+.vscode/ 
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (we don't want large CSVs on GitHub)
+data/raw/*.csv
+data/raw/*.xlsx
+data/processed/*.csv
+data/processed/*.xlsx
+data/processed/*.parquet
+
+# Reports and generated files
+reports/*.png
+reports/*.jpg
+reports/*.html
+reports/*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log

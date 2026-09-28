@@ -1,0 +1,38 @@
+[
+  {
+    "continent":"Africa",
+    "total_cases":13064432.0,
+    "total_deaths":258288.0,
+    "population":1445862695.0
+  },
+  {
+    "continent":"Asia",
+    "total_cases":302281530.0,
+    "total_deaths":1637916.0,
+    "population":4746329727.0
+  },
+  {
+    "continent":"Europe",
+    "total_cases":254969570.0,
+    "total_deaths":2111788.0,
+    "population":748296168.0
+  },
+  {
+    "continent":"North America",
+    "total_cases":124524251.0,
+    "total_deaths":1717813.0,
+    "population":604356255.0
+  },
+  {
+    "continent":"Oceania",
+    "total_cases":15032781.0,
+    "total_deaths":33170.0,
+    "population":45049680.0
+  },
+  {
+    "continent":"South America",
+    "total_cases":69404861.0,
+    "total_deaths":1356731.0,
+    "population":430492816.0
+  }
+]
